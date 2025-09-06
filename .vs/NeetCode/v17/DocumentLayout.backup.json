@@ -1,0 +1,128 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\projects\\Console\\LeetCode\\NeetCode\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{69A88F31-502F-43A6-AA10-0C14D24F8979}|NeetCode\\NeetCode.csproj|e:\\projects\\console\\leetcode\\neetcode\\neetcode\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69A88F31-502F-43A6-AA10-0C14D24F8979}|NeetCode\\NeetCode.csproj|solutionrelative:neetcode\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69A88F31-502F-43A6-AA10-0C14D24F8979}|NeetCode\\NeetCode.csproj|e:\\projects\\console\\leetcode\\neetcode\\neetcode\\easy\\dictionary\\longestharmonioussubsequence594.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69A88F31-502F-43A6-AA10-0C14D24F8979}|NeetCode\\NeetCode.csproj|solutionrelative:neetcode\\easy\\dictionary\\longestharmonioussubsequence594.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69A88F31-502F-43A6-AA10-0C14D24F8979}|NeetCode\\NeetCode.csproj|e:\\projects\\console\\leetcode\\neetcode\\neetcode\\easy\\slidingwindow\\defusethebomb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69A88F31-502F-43A6-AA10-0C14D24F8979}|NeetCode\\NeetCode.csproj|solutionrelative:neetcode\\easy\\slidingwindow\\defusethebomb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69A88F31-502F-43A6-AA10-0C14D24F8979}|NeetCode\\NeetCode.csproj|e:\\projects\\console\\leetcode\\neetcode\\neetcode\\easy\\slidingwindow\\containsduplicateii219.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69A88F31-502F-43A6-AA10-0C14D24F8979}|NeetCode\\NeetCode.csproj|solutionrelative:neetcode\\easy\\slidingwindow\\containsduplicateii219.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69A88F31-502F-43A6-AA10-0C14D24F8979}|NeetCode\\NeetCode.csproj|e:\\projects\\console\\leetcode\\neetcode\\neetcode\\easy\\slidingwindow\\maximumaveragesubarrayi643.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69A88F31-502F-43A6-AA10-0C14D24F8979}|NeetCode\\NeetCode.csproj|solutionrelative:neetcode\\easy\\slidingwindow\\maximumaveragesubarrayi643.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69A88F31-502F-43A6-AA10-0C14D24F8979}|NeetCode\\NeetCode.csproj|e:\\projects\\console\\leetcode\\neetcode\\neetcode\\medium\\slidingwindow\\maximumnumberofvowelsasubstringofgivenlength1456.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69A88F31-502F-43A6-AA10-0C14D24F8979}|NeetCode\\NeetCode.csproj|solutionrelative:neetcode\\medium\\slidingwindow\\maximumnumberofvowelsasubstringofgivenlength1456.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DefuseTheBomb.cs",
+              "DocumentMoniker": "E:\\projects\\Console\\LeetCode\\NeetCode\\NeetCode\\Easy\\SlidingWindow\\DefuseTheBomb.cs",
+              "RelativeDocumentMoniker": "NeetCode\\Easy\\SlidingWindow\\DefuseTheBomb.cs",
+              "ToolTip": "E:\\projects\\Console\\LeetCode\\NeetCode\\NeetCode\\Easy\\SlidingWindow\\DefuseTheBomb.cs",
+              "RelativeToolTip": "NeetCode\\Easy\\SlidingWindow\\DefuseTheBomb.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T12:58:08.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LongestHarmoniousSubsequence594.cs",
+              "DocumentMoniker": "E:\\projects\\Console\\LeetCode\\NeetCode\\NeetCode\\Easy\\Dictionary\\LongestHarmoniousSubsequence594.cs",
+              "RelativeDocumentMoniker": "NeetCode\\Easy\\Dictionary\\LongestHarmoniousSubsequence594.cs",
+              "ToolTip": "E:\\projects\\Console\\LeetCode\\NeetCode\\NeetCode\\Easy\\Dictionary\\LongestHarmoniousSubsequence594.cs",
+              "RelativeToolTip": "NeetCode\\Easy\\Dictionary\\LongestHarmoniousSubsequence594.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAUwB4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T12:52:06.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ContainsDuplicateII219.cs",
+              "DocumentMoniker": "E:\\projects\\Console\\LeetCode\\NeetCode\\NeetCode\\Easy\\SlidingWindow\\ContainsDuplicateII219.cs",
+              "RelativeDocumentMoniker": "NeetCode\\Easy\\SlidingWindow\\ContainsDuplicateII219.cs",
+              "ToolTip": "E:\\projects\\Console\\LeetCode\\NeetCode\\NeetCode\\Easy\\SlidingWindow\\ContainsDuplicateII219.cs",
+              "RelativeToolTip": "NeetCode\\Easy\\SlidingWindow\\ContainsDuplicateII219.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T12:15:08.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MaximumAverageSubarrayI643.cs",
+              "DocumentMoniker": "E:\\projects\\Console\\LeetCode\\NeetCode\\NeetCode\\Easy\\SlidingWindow\\MaximumAverageSubarrayI643.cs",
+              "RelativeDocumentMoniker": "NeetCode\\Easy\\SlidingWindow\\MaximumAverageSubarrayI643.cs",
+              "ToolTip": "E:\\projects\\Console\\LeetCode\\NeetCode\\NeetCode\\Easy\\SlidingWindow\\MaximumAverageSubarrayI643.cs",
+              "RelativeToolTip": "NeetCode\\Easy\\SlidingWindow\\MaximumAverageSubarrayI643.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T17:26:54.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MaximumNumberofVowelsaSubstringofGivenLength1456.cs",
+              "DocumentMoniker": "E:\\projects\\Console\\LeetCode\\NeetCode\\NeetCode\\Medium\\SlidingWindow\\MaximumNumberofVowelsaSubstringofGivenLength1456.cs",
+              "RelativeDocumentMoniker": "NeetCode\\Medium\\SlidingWindow\\MaximumNumberofVowelsaSubstringofGivenLength1456.cs",
+              "ToolTip": "E:\\projects\\Console\\LeetCode\\NeetCode\\NeetCode\\Medium\\SlidingWindow\\MaximumNumberofVowelsaSubstringofGivenLength1456.cs",
+              "RelativeToolTip": "NeetCode\\Medium\\SlidingWindow\\MaximumNumberofVowelsaSubstringofGivenLength1456.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAACgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T12:57:55.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\projects\\Console\\LeetCode\\NeetCode\\NeetCode\\Program.cs",
+              "RelativeDocumentMoniker": "NeetCode\\Program.cs",
+              "ToolTip": "E:\\projects\\Console\\LeetCode\\NeetCode\\NeetCode\\Program.cs*",
+              "RelativeToolTip": "NeetCode\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T08:01:28.272Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
