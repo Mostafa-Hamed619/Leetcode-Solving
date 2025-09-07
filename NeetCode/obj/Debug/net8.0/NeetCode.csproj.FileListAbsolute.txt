@@ -12,3 +12,4 @@ E:\projects\Console\LeetCode\NeetCode\NeetCode\obj\Debug\net8.0\refint\NeetCode.
 E:\projects\Console\LeetCode\NeetCode\NeetCode\obj\Debug\net8.0\NeetCode.pdb
 E:\projects\Console\LeetCode\NeetCode\NeetCode\obj\Debug\net8.0\NeetCode.genruntimeconfig.cache
 E:\projects\Console\LeetCode\NeetCode\NeetCode\obj\Debug\net8.0\ref\NeetCode.dll
+E:\projects\Console\LeetCode\NeetCode\NeetCode\obj\Debug\net8.0\NeetCode.sourcelink.json

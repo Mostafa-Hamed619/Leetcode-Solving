@@ -54,10 +54,10 @@
 
 #endregion
 
+using NeetCode.Medium.SlidingWindow;
 
-using NeetCode.Easy.Dictionary;
+string s = "dvdf";
 
-LongestHarmoniousSubsequence594 prog = new();
+Longest_Substring_Without_Repeating_Characters_3 prog = new();
 
-int[] nums = { 1, 1, 1, 1 };
-Console.WriteLine(prog.FindLHS(nums));
+Console.WriteLine(prog.LengthOfLongestSubstring(s));
