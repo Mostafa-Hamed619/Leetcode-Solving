@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "E:\\projects\\Console\\LeetCode\\NeetCode\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{69A88F31-502F-43A6-AA10-0C14D24F8979}|NeetCode\\NeetCode.csproj|e:\\projects\\console\\leetcode\\neetcode\\neetcode\\medium\\slidingwindow\\longest_substring_without_repeating_characters_3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{69A88F31-502F-43A6-AA10-0C14D24F8979}|NeetCode\\NeetCode.csproj|solutionrelative:neetcode\\medium\\slidingwindow\\longest_substring_without_repeating_characters_3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{69A88F31-502F-43A6-AA10-0C14D24F8979}|NeetCode\\NeetCode.csproj|e:\\projects\\console\\leetcode\\neetcode\\neetcode\\medium\\slidingwindow\\max_consecutive_ones_iii_1004.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69A88F31-502F-43A6-AA10-0C14D24F8979}|NeetCode\\NeetCode.csproj|solutionrelative:neetcode\\medium\\slidingwindow\\max_consecutive_ones_iii_1004.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{69A88F31-502F-43A6-AA10-0C14D24F8979}|NeetCode\\NeetCode.csproj|e:\\projects\\console\\leetcode\\neetcode\\neetcode\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{69A88F31-502F-43A6-AA10-0C14D24F8979}|NeetCode\\NeetCode.csproj|solutionrelative:neetcode\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69A88F31-502F-43A6-AA10-0C14D24F8979}|NeetCode\\NeetCode.csproj|e:\\projects\\console\\leetcode\\neetcode\\neetcode\\medium\\slidingwindow\\longest_substring_without_repeating_characters_3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69A88F31-502F-43A6-AA10-0C14D24F8979}|NeetCode\\NeetCode.csproj|solutionrelative:neetcode\\medium\\slidingwindow\\longest_substring_without_repeating_characters_3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{69A88F31-502F-43A6-AA10-0C14D24F8979}|NeetCode\\NeetCode.csproj|e:\\projects\\console\\leetcode\\neetcode\\neetcode\\easy\\dictionary\\missingnumbers268.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -22,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,33 +38,46 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Max_Consecutive_Ones_III_1004.cs",
+              "DocumentMoniker": "E:\\projects\\Console\\LeetCode\\NeetCode\\NeetCode\\Medium\\SlidingWindow\\Max_Consecutive_Ones_III_1004.cs",
+              "RelativeDocumentMoniker": "NeetCode\\Medium\\SlidingWindow\\Max_Consecutive_Ones_III_1004.cs",
+              "ToolTip": "E:\\projects\\Console\\LeetCode\\NeetCode\\NeetCode\\Medium\\SlidingWindow\\Max_Consecutive_Ones_III_1004.cs*",
+              "RelativeToolTip": "NeetCode\\Medium\\SlidingWindow\\Max_Consecutive_Ones_III_1004.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvxcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T20:19:03.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\projects\\Console\\LeetCode\\NeetCode\\NeetCode\\Program.cs",
               "RelativeDocumentMoniker": "NeetCode\\Program.cs",
-              "ToolTip": "E:\\projects\\Console\\LeetCode\\NeetCode\\NeetCode\\Program.cs*",
-              "RelativeToolTip": "NeetCode\\Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAAQAAAAAAAAAA==",
+              "ToolTip": "E:\\projects\\Console\\LeetCode\\NeetCode\\NeetCode\\Program.cs",
+              "RelativeToolTip": "NeetCode\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-07T20:35:01.906Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Longest_Substring_Without_Repeating_Characters_3.cs",
               "DocumentMoniker": "E:\\projects\\Console\\LeetCode\\NeetCode\\NeetCode\\Medium\\SlidingWindow\\Longest_Substring_Without_Repeating_Characters_3.cs",
               "RelativeDocumentMoniker": "NeetCode\\Medium\\SlidingWindow\\Longest_Substring_Without_Repeating_Characters_3.cs",
-              "ToolTip": "E:\\projects\\Console\\LeetCode\\NeetCode\\NeetCode\\Medium\\SlidingWindow\\Longest_Substring_Without_Repeating_Characters_3.cs*",
-              "RelativeToolTip": "NeetCode\\Medium\\SlidingWindow\\Longest_Substring_Without_Repeating_Characters_3.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAlAAAAAAAAAA==",
+              "ToolTip": "E:\\projects\\Console\\LeetCode\\NeetCode\\NeetCode\\Medium\\SlidingWindow\\Longest_Substring_Without_Repeating_Characters_3.cs",
+              "RelativeToolTip": "NeetCode\\Medium\\SlidingWindow\\Longest_Substring_Without_Repeating_Characters_3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-07T20:27:04.933Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "MissingNumbers268.cs",
               "DocumentMoniker": "E:\\projects\\Console\\LeetCode\\NeetCode\\NeetCode\\Easy\\Dictionary\\MissingNumbers268.cs",
               "RelativeDocumentMoniker": "NeetCode\\Easy\\Dictionary\\MissingNumbers268.cs",
@@ -68,8 +85,7 @@
               "RelativeToolTip": "NeetCode\\Easy\\Dictionary\\MissingNumbers268.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-07T20:07:29.177Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-07T20:07:29.177Z"
             }
           ]
         }

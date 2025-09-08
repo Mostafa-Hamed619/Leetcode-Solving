@@ -56,8 +56,8 @@
 
 using NeetCode.Medium.SlidingWindow;
 
-string s = "dvdf";
+Max_Consecutive_Ones_III_1004 prog = new();
 
-Longest_Substring_Without_Repeating_Characters_3 prog = new();
+int[] nums = { 0, 0, 1, 1, 0, 0, 1, 1, 1, 0, 1, 1, 0, 0, 0, 1, 1, 1, 1 };
 
-Console.WriteLine(prog.LengthOfLongestSubstring(s));
+Console.WriteLine(prog.LongestOnes(nums, 3));
