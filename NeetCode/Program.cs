@@ -54,10 +54,10 @@
 
 #endregion
 
-using NeetCode.Medium.SlidingWindow;
 
-Max_Consecutive_Ones_III_1004 prog = new();
+using NeetCode.Easy.Prefix_Sum;
 
-int[] nums = { 0, 0, 1, 1, 0, 0, 1, 1, 1, 0, 1, 1, 0, 0, 0, 1, 1, 1, 1 };
+Find_The_Highest_Gain_1732 prog = new();
 
-Console.WriteLine(prog.LongestOnes(nums, 3));
+int[] gain = { -4, -3, -2, -1, 4, 3, 2 };
+Console.WriteLine(prog.LargestAltitude(gain));
