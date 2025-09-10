@@ -55,9 +55,10 @@
 #endregion
 
 
-using NeetCode.Easy.Prefix_Sum;
+using NeetCode.Easy.Dictionary;
 
-Find_The_Highest_Gain_1732 prog = new();
+Find_the_Difference_of_Two_Arrays_2215 prog = new();
 
-int[] gain = { -4, -3, -2, -1, 4, 3, 2 };
-Console.WriteLine(prog.LargestAltitude(gain));
+int[] num1 = { 1, 2, 3 }; int[] num2 = { 2, 4, 6 };
+
+Console.WriteLine(prog.FindDifference(num1, num2));

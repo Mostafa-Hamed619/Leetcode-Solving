@@ -1,7 +1,20 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "E:\\projects\\Console\\LeetCode\\NeetCode\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{69A88F31-502F-43A6-AA10-0C14D24F8979}|NeetCode\\NeetCode.csproj|e:\\projects\\console\\leetcode\\neetcode\\neetcode\\easy\\dictionary\\find_the_difference_of_two_arrays_2215.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69A88F31-502F-43A6-AA10-0C14D24F8979}|NeetCode\\NeetCode.csproj|solutionrelative:neetcode\\easy\\dictionary\\find_the_difference_of_two_arrays_2215.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69A88F31-502F-43A6-AA10-0C14D24F8979}|NeetCode\\NeetCode.csproj|e:\\projects\\console\\leetcode\\neetcode\\neetcode\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69A88F31-502F-43A6-AA10-0C14D24F8979}|NeetCode\\NeetCode.csproj|solutionrelative:neetcode\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69A88F31-502F-43A6-AA10-0C14D24F8979}|NeetCode\\NeetCode.csproj|e:\\projects\\console\\leetcode\\neetcode\\neetcode\\easy\\prefix sum\\find_pivot_index_724.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69A88F31-502F-43A6-AA10-0C14D24F8979}|NeetCode\\NeetCode.csproj|solutionrelative:neetcode\\easy\\prefix sum\\find_pivot_index_724.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 1,
@@ -9,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -18,6 +31,45 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Find_the_Difference_of_Two_Arrays_2215.cs",
+              "DocumentMoniker": "E:\\projects\\Console\\LeetCode\\NeetCode\\NeetCode\\Easy\\Dictionary\\Find_the_Difference_of_Two_Arrays_2215.cs",
+              "RelativeDocumentMoniker": "NeetCode\\Easy\\Dictionary\\Find_the_Difference_of_Two_Arrays_2215.cs",
+              "ToolTip": "E:\\projects\\Console\\LeetCode\\NeetCode\\NeetCode\\Easy\\Dictionary\\Find_the_Difference_of_Two_Arrays_2215.cs",
+              "RelativeToolTip": "NeetCode\\Easy\\Dictionary\\Find_the_Difference_of_Two_Arrays_2215.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T20:03:42.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Find_Pivot_Index_724.cs",
+              "DocumentMoniker": "E:\\projects\\Console\\LeetCode\\NeetCode\\NeetCode\\Easy\\Prefix Sum\\Find_Pivot_Index_724.cs",
+              "RelativeDocumentMoniker": "NeetCode\\Easy\\Prefix Sum\\Find_Pivot_Index_724.cs",
+              "ToolTip": "E:\\projects\\Console\\LeetCode\\NeetCode\\NeetCode\\Easy\\Prefix Sum\\Find_Pivot_Index_724.cs",
+              "RelativeToolTip": "NeetCode\\Easy\\Prefix Sum\\Find_Pivot_Index_724.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAD4vxIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T19:25:36.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\projects\\Console\\LeetCode\\NeetCode\\NeetCode\\Program.cs",
+              "RelativeDocumentMoniker": "NeetCode\\Program.cs",
+              "ToolTip": "E:\\projects\\Console\\LeetCode\\NeetCode\\NeetCode\\Program.cs",
+              "RelativeToolTip": "NeetCode\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD8AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T19:19:18.374Z",
+              "EditorCaption": ""
             }
           ]
         }

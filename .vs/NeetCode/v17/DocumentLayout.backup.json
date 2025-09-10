@@ -3,28 +3,16 @@
   "WorkspaceRootPath": "E:\\projects\\Console\\LeetCode\\NeetCode\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{69A88F31-502F-43A6-AA10-0C14D24F8979}|NeetCode\\NeetCode.csproj|e:\\projects\\console\\leetcode\\neetcode\\neetcode\\easy\\dictionary\\find_the_difference_of_two_arrays_2215.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69A88F31-502F-43A6-AA10-0C14D24F8979}|NeetCode\\NeetCode.csproj|solutionrelative:neetcode\\easy\\dictionary\\find_the_difference_of_two_arrays_2215.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{69A88F31-502F-43A6-AA10-0C14D24F8979}|NeetCode\\NeetCode.csproj|e:\\projects\\console\\leetcode\\neetcode\\neetcode\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{69A88F31-502F-43A6-AA10-0C14D24F8979}|NeetCode\\NeetCode.csproj|solutionrelative:neetcode\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{69A88F31-502F-43A6-AA10-0C14D24F8979}|NeetCode\\NeetCode.csproj|e:\\projects\\console\\leetcode\\neetcode\\neetcode\\easy\\prefix sum\\find_the_highest_gain_1732.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{69A88F31-502F-43A6-AA10-0C14D24F8979}|NeetCode\\NeetCode.csproj|solutionrelative:neetcode\\easy\\prefix sum\\find_the_highest_gain_1732.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{69A88F31-502F-43A6-AA10-0C14D24F8979}|NeetCode\\NeetCode.csproj|e:\\projects\\console\\leetcode\\neetcode\\neetcode\\medium\\slidingwindow\\longest_subarray_of_1\u0027s_after_deleting_one_element_1493.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{69A88F31-502F-43A6-AA10-0C14D24F8979}|NeetCode\\NeetCode.csproj|solutionrelative:neetcode\\medium\\slidingwindow\\longest_subarray_of_1\u0027s_after_deleting_one_element_1493.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{69A88F31-502F-43A6-AA10-0C14D24F8979}|NeetCode\\NeetCode.csproj|e:\\projects\\console\\leetcode\\neetcode\\neetcode\\medium\\slidingwindow\\max_consecutive_ones_iii_1004.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{69A88F31-502F-43A6-AA10-0C14D24F8979}|NeetCode\\NeetCode.csproj|solutionrelative:neetcode\\medium\\slidingwindow\\max_consecutive_ones_iii_1004.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{69A88F31-502F-43A6-AA10-0C14D24F8979}|NeetCode\\NeetCode.csproj|e:\\projects\\console\\leetcode\\neetcode\\neetcode\\medium\\slidingwindow\\longest_substring_without_repeating_characters_3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{69A88F31-502F-43A6-AA10-0C14D24F8979}|NeetCode\\NeetCode.csproj|solutionrelative:neetcode\\medium\\slidingwindow\\longest_substring_without_repeating_characters_3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{69A88F31-502F-43A6-AA10-0C14D24F8979}|NeetCode\\NeetCode.csproj|e:\\projects\\console\\leetcode\\neetcode\\neetcode\\easy\\dictionary\\missingnumbers268.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{69A88F31-502F-43A6-AA10-0C14D24F8979}|NeetCode\\NeetCode.csproj|solutionrelative:neetcode\\easy\\dictionary\\missingnumbers268.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{69A88F31-502F-43A6-AA10-0C14D24F8979}|NeetCode\\NeetCode.csproj|e:\\projects\\console\\leetcode\\neetcode\\neetcode\\easy\\prefix sum\\find_pivot_index_724.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69A88F31-502F-43A6-AA10-0C14D24F8979}|NeetCode\\NeetCode.csproj|solutionrelative:neetcode\\easy\\prefix sum\\find_pivot_index_724.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,79 +34,42 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Find_The_Highest_Gain_1732.cs",
-              "DocumentMoniker": "E:\\projects\\Console\\LeetCode\\NeetCode\\NeetCode\\Easy\\Prefix Sum\\Find_The_Highest_Gain_1732.cs",
-              "RelativeDocumentMoniker": "NeetCode\\Easy\\Prefix Sum\\Find_The_Highest_Gain_1732.cs",
-              "ToolTip": "E:\\projects\\Console\\LeetCode\\NeetCode\\NeetCode\\Easy\\Prefix Sum\\Find_The_Highest_Gain_1732.cs",
-              "RelativeToolTip": "NeetCode\\Easy\\Prefix Sum\\Find_The_Highest_Gain_1732.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAMAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Find_the_Difference_of_Two_Arrays_2215.cs",
+              "DocumentMoniker": "E:\\projects\\Console\\LeetCode\\NeetCode\\NeetCode\\Easy\\Dictionary\\Find_the_Difference_of_Two_Arrays_2215.cs",
+              "RelativeDocumentMoniker": "NeetCode\\Easy\\Dictionary\\Find_the_Difference_of_Two_Arrays_2215.cs",
+              "ToolTip": "E:\\projects\\Console\\LeetCode\\NeetCode\\NeetCode\\Easy\\Dictionary\\Find_the_Difference_of_Two_Arrays_2215.cs*",
+              "RelativeToolTip": "NeetCode\\Easy\\Dictionary\\Find_the_Difference_of_Two_Arrays_2215.cs*",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACYAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-09T21:17:11.996Z",
+              "WhenOpened": "2025-09-10T20:03:42.349Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Longest_Subarray_of_1\u0027s_After_Deleting_One_Element_1493.cs",
-              "DocumentMoniker": "E:\\projects\\Console\\LeetCode\\NeetCode\\NeetCode\\Medium\\SlidingWindow\\Longest_Subarray_of_1\u0027s_After_Deleting_One_Element_1493.cs",
-              "RelativeDocumentMoniker": "NeetCode\\Medium\\SlidingWindow\\Longest_Subarray_of_1\u0027s_After_Deleting_One_Element_1493.cs",
-              "ToolTip": "E:\\projects\\Console\\LeetCode\\NeetCode\\NeetCode\\Medium\\SlidingWindow\\Longest_Subarray_of_1\u0027s_After_Deleting_One_Element_1493.cs",
-              "RelativeToolTip": "NeetCode\\Medium\\SlidingWindow\\Longest_Subarray_of_1\u0027s_After_Deleting_One_Element_1493.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAJAAAAAAAAAA==",
+              "Title": "Find_Pivot_Index_724.cs",
+              "DocumentMoniker": "E:\\projects\\Console\\LeetCode\\NeetCode\\NeetCode\\Easy\\Prefix Sum\\Find_Pivot_Index_724.cs",
+              "RelativeDocumentMoniker": "NeetCode\\Easy\\Prefix Sum\\Find_Pivot_Index_724.cs",
+              "ToolTip": "E:\\projects\\Console\\LeetCode\\NeetCode\\NeetCode\\Easy\\Prefix Sum\\Find_Pivot_Index_724.cs",
+              "RelativeToolTip": "NeetCode\\Easy\\Prefix Sum\\Find_Pivot_Index_724.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAD4vxIAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-09T20:47:27.626Z",
+              "WhenOpened": "2025-09-10T19:25:36.424Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Max_Consecutive_Ones_III_1004.cs",
-              "DocumentMoniker": "E:\\projects\\Console\\LeetCode\\NeetCode\\NeetCode\\Medium\\SlidingWindow\\Max_Consecutive_Ones_III_1004.cs",
-              "RelativeDocumentMoniker": "NeetCode\\Medium\\SlidingWindow\\Max_Consecutive_Ones_III_1004.cs",
-              "ToolTip": "E:\\projects\\Console\\LeetCode\\NeetCode\\NeetCode\\Medium\\SlidingWindow\\Max_Consecutive_Ones_III_1004.cs",
-              "RelativeToolTip": "NeetCode\\Medium\\SlidingWindow\\Max_Consecutive_Ones_III_1004.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvxQAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-08T20:19:03.994Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\projects\\Console\\LeetCode\\NeetCode\\NeetCode\\Program.cs",
               "RelativeDocumentMoniker": "NeetCode\\Program.cs",
-              "ToolTip": "E:\\projects\\Console\\LeetCode\\NeetCode\\NeetCode\\Program.cs*",
-              "RelativeToolTip": "NeetCode\\Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAAnAAAAAAAAAA==",
+              "ToolTip": "E:\\projects\\Console\\LeetCode\\NeetCode\\NeetCode\\Program.cs",
+              "RelativeToolTip": "NeetCode\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD8AAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-07T20:35:01.906Z",
+              "WhenOpened": "2025-09-10T19:19:18.374Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Longest_Substring_Without_Repeating_Characters_3.cs",
-              "DocumentMoniker": "E:\\projects\\Console\\LeetCode\\NeetCode\\NeetCode\\Medium\\SlidingWindow\\Longest_Substring_Without_Repeating_Characters_3.cs",
-              "RelativeDocumentMoniker": "NeetCode\\Medium\\SlidingWindow\\Longest_Substring_Without_Repeating_Characters_3.cs",
-              "ToolTip": "E:\\projects\\Console\\LeetCode\\NeetCode\\NeetCode\\Medium\\SlidingWindow\\Longest_Substring_Without_Repeating_Characters_3.cs",
-              "RelativeToolTip": "NeetCode\\Medium\\SlidingWindow\\Longest_Substring_Without_Repeating_Characters_3.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-07T20:27:04.933Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "MissingNumbers268.cs",
-              "DocumentMoniker": "E:\\projects\\Console\\LeetCode\\NeetCode\\NeetCode\\Easy\\Dictionary\\MissingNumbers268.cs",
-              "RelativeDocumentMoniker": "NeetCode\\Easy\\Dictionary\\MissingNumbers268.cs",
-              "ToolTip": "E:\\projects\\Console\\LeetCode\\NeetCode\\NeetCode\\Easy\\Dictionary\\MissingNumbers268.cs",
-              "RelativeToolTip": "NeetCode\\Easy\\Dictionary\\MissingNumbers268.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-07T20:07:29.177Z"
             }
           ]
         }
