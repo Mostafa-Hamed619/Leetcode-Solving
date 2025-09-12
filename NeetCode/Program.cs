@@ -57,8 +57,8 @@
 
 using NeetCode.Easy.Dictionary;
 
-Find_the_Difference_of_Two_Arrays_2215 prog = new();
+Unique_Number_of_Occurrences_1207 prog = new();
 
-int[] num1 = { 1, 2, 3 }; int[] num2 = { 2, 4, 6 };
+int[] arr = { 1, 2, 2, 1, 1, 3, 3 };
 
-Console.WriteLine(prog.FindDifference(num1, num2));
+Console.WriteLine(prog.UniqueOccurrences(arr));
