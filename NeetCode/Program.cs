@@ -55,10 +55,11 @@
 #endregion
 
 
-using NeetCode.Easy.Dictionary;
+using NeetCode.Medium.Stack;
 
-Unique_Number_of_Occurrences_1207 prog = new();
 
-int[] arr = { 1, 2, 2, 1, 1, 3, 3 };
 
-Console.WriteLine(prog.UniqueOccurrences(arr));
+Asteroid_Collision_735 prog = new();
+int[] arr = { -2, -1, 1, 2 };
+
+Console.WriteLine(string.Join(" ", prog.AsteroidCollision(arr)));

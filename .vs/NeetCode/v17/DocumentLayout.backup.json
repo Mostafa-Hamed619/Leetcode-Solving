@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "E:\\projects\\Console\\LeetCode\\NeetCode\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{69A88F31-502F-43A6-AA10-0C14D24F8979}|NeetCode\\NeetCode.csproj|e:\\projects\\console\\leetcode\\neetcode\\neetcode\\easy\\dictionary\\unique_number_of_occurrences_1207.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{69A88F31-502F-43A6-AA10-0C14D24F8979}|NeetCode\\NeetCode.csproj|solutionrelative:neetcode\\easy\\dictionary\\unique_number_of_occurrences_1207.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{69A88F31-502F-43A6-AA10-0C14D24F8979}|NeetCode\\NeetCode.csproj|e:\\projects\\console\\leetcode\\neetcode\\neetcode\\medium\\stack\\asteroid_collision_735.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69A88F31-502F-43A6-AA10-0C14D24F8979}|NeetCode\\NeetCode.csproj|solutionrelative:neetcode\\medium\\stack\\asteroid_collision_735.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{69A88F31-502F-43A6-AA10-0C14D24F8979}|NeetCode\\NeetCode.csproj|e:\\projects\\console\\leetcode\\neetcode\\neetcode\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -31,14 +31,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Unique_Number_of_Occurrences_1207.cs",
-              "DocumentMoniker": "E:\\projects\\Console\\LeetCode\\NeetCode\\NeetCode\\Easy\\Dictionary\\Unique_Number_of_Occurrences_1207.cs",
-              "RelativeDocumentMoniker": "NeetCode\\Easy\\Dictionary\\Unique_Number_of_Occurrences_1207.cs",
-              "ToolTip": "E:\\projects\\Console\\LeetCode\\NeetCode\\NeetCode\\Easy\\Dictionary\\Unique_Number_of_Occurrences_1207.cs*",
-              "RelativeToolTip": "NeetCode\\Easy\\Dictionary\\Unique_Number_of_Occurrences_1207.cs*",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAkwBUAAAAMAAAAAAAAAA==",
+              "Title": "Asteroid_Collision_735.cs",
+              "DocumentMoniker": "E:\\projects\\Console\\LeetCode\\NeetCode\\NeetCode\\Medium\\Stack\\Asteroid_Collision_735.cs",
+              "RelativeDocumentMoniker": "NeetCode\\Medium\\Stack\\Asteroid_Collision_735.cs",
+              "ToolTip": "E:\\projects\\Console\\LeetCode\\NeetCode\\NeetCode\\Medium\\Stack\\Asteroid_Collision_735.cs*",
+              "RelativeToolTip": "NeetCode\\Medium\\Stack\\Asteroid_Collision_735.cs*",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABgAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-12T13:18:38.688Z",
+              "WhenOpened": "2025-09-13T22:00:58.851Z",
               "EditorCaption": ""
             },
             {
@@ -49,9 +49,9 @@
               "RelativeDocumentMoniker": "NeetCode\\Program.cs",
               "ToolTip": "E:\\projects\\Console\\LeetCode\\NeetCode\\NeetCode\\Program.cs",
               "RelativeToolTip": "NeetCode\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-10T19:19:18.374Z",
+              "WhenOpened": "2025-09-13T20:45:16.224Z",
               "EditorCaption": ""
             }
           ]
