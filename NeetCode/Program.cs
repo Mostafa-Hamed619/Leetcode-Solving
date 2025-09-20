@@ -54,12 +54,8 @@
 
 #endregion
 
-
 using NeetCode.Medium.Stack;
 
+Decode_String_394 prog = new();
 
-
-Asteroid_Collision_735 prog = new();
-int[] arr = { -2, -1, 1, 2 };
-
-Console.WriteLine(string.Join(" ", prog.AsteroidCollision(arr)));
+Console.WriteLine(prog.DecodeString("3[a]2[bc]"));
