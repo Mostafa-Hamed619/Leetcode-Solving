@@ -1,4 +1,6 @@
-﻿//using NeetCode.Easy.Arrays;
+﻿
+
+//using NeetCode.Easy.Arrays;
 
 //_1768_Merge_Strings_Alternately prog = new _1768_Merge_Strings_Alternately();
 //Console.WriteLine(prog.MergeAlternately("ab", "pqrs"));
@@ -47,15 +49,8 @@
 //    {
 //        return new SomeClass(a.SomeValue + b.SomeValue);
 //    }
-
-
 //}
 
 
 #endregion
 
-using NeetCode.Medium.Stack;
-
-Decode_String_394 prog = new();
-
-Console.WriteLine(prog.DecodeString("3[a]2[bc]"));

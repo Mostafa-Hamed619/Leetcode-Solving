@@ -3,12 +3,24 @@
   "WorkspaceRootPath": "E:\\projects\\Console\\LeetCode\\NeetCode\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{69A88F31-502F-43A6-AA10-0C14D24F8979}|NeetCode\\NeetCode.csproj|e:\\projects\\console\\leetcode\\neetcode\\neetcode\\medium\\stack\\decode_string_394.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{69A88F31-502F-43A6-AA10-0C14D24F8979}|NeetCode\\NeetCode.csproj|solutionrelative:neetcode\\medium\\stack\\decode_string_394.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{69A88F31-502F-43A6-AA10-0C14D24F8979}|NeetCode\\NeetCode.csproj|e:\\projects\\console\\leetcode\\neetcode\\neetcode\\medium\\greedy\\maximum_number_distinct_elements_after_operations_3397.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69A88F31-502F-43A6-AA10-0C14D24F8979}|NeetCode\\NeetCode.csproj|solutionrelative:neetcode\\medium\\greedy\\maximum_number_distinct_elements_after_operations_3397.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{69A88F31-502F-43A6-AA10-0C14D24F8979}|NeetCode\\NeetCode.csproj|e:\\projects\\console\\leetcode\\neetcode\\neetcode\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{69A88F31-502F-43A6-AA10-0C14D24F8979}|NeetCode\\NeetCode.csproj|solutionrelative:neetcode\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69A88F31-502F-43A6-AA10-0C14D24F8979}|NeetCode\\NeetCode.csproj|e:\\projects\\console\\leetcode\\neetcode\\neetcode\\easy\\dfs\\binary_tree_inorder_traversal_94.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69A88F31-502F-43A6-AA10-0C14D24F8979}|NeetCode\\NeetCode.csproj|solutionrelative:neetcode\\easy\\dfs\\binary_tree_inorder_traversal_94.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69A88F31-502F-43A6-AA10-0C14D24F8979}|NeetCode\\NeetCode.csproj|e:\\projects\\console\\leetcode\\neetcode\\neetcode\\medium\\arrays\\anagram groups.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69A88F31-502F-43A6-AA10-0C14D24F8979}|NeetCode\\NeetCode.csproj|solutionrelative:neetcode\\medium\\arrays\\anagram groups.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69A88F31-502F-43A6-AA10-0C14D24F8979}|NeetCode\\NeetCode.csproj|e:\\projects\\console\\leetcode\\neetcode\\neetcode\\medium\\arrays\\smallest_missing_nonnegative_integer_after_operations_2598.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69A88F31-502F-43A6-AA10-0C14D24F8979}|NeetCode\\NeetCode.csproj|solutionrelative:neetcode\\medium\\arrays\\smallest_missing_nonnegative_integer_after_operations_2598.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,28 +42,65 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Maximum_Number_Distinct_Elements_After_Operations_3397.cs",
+              "DocumentMoniker": "E:\\projects\\Console\\LeetCode\\NeetCode\\NeetCode\\Medium\\Greedy\\Maximum_Number_Distinct_Elements_After_Operations_3397.cs",
+              "RelativeDocumentMoniker": "NeetCode\\Medium\\Greedy\\Maximum_Number_Distinct_Elements_After_Operations_3397.cs",
+              "ToolTip": "E:\\projects\\Console\\LeetCode\\NeetCode\\NeetCode\\Medium\\Greedy\\Maximum_Number_Distinct_Elements_After_Operations_3397.cs",
+              "RelativeToolTip": "NeetCode\\Medium\\Greedy\\Maximum_Number_Distinct_Elements_After_Operations_3397.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T22:20:25.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Binary_Tree_Inorder_Traversal_94.cs",
+              "DocumentMoniker": "E:\\projects\\Console\\LeetCode\\NeetCode\\NeetCode\\Easy\\DFS\\Binary_Tree_Inorder_Traversal_94.cs",
+              "RelativeDocumentMoniker": "NeetCode\\Easy\\DFS\\Binary_Tree_Inorder_Traversal_94.cs",
+              "ToolTip": "E:\\projects\\Console\\LeetCode\\NeetCode\\NeetCode\\Easy\\DFS\\Binary_Tree_Inorder_Traversal_94.cs",
+              "RelativeToolTip": "NeetCode\\Easy\\DFS\\Binary_Tree_Inorder_Traversal_94.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAkwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T08:39:44.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Anagram Groups.cs",
+              "DocumentMoniker": "E:\\projects\\Console\\LeetCode\\NeetCode\\NeetCode\\Medium\\Arrays\\Anagram Groups.cs",
+              "RelativeDocumentMoniker": "NeetCode\\Medium\\Arrays\\Anagram Groups.cs",
+              "ToolTip": "E:\\projects\\Console\\LeetCode\\NeetCode\\NeetCode\\Medium\\Arrays\\Anagram Groups.cs",
+              "RelativeToolTip": "NeetCode\\Medium\\Arrays\\Anagram Groups.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T08:37:53.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Smallest_Missing_Nonnegative_Integer_After_Operations_2598.cs",
+              "DocumentMoniker": "E:\\projects\\Console\\LeetCode\\NeetCode\\NeetCode\\Medium\\Arrays\\Smallest_Missing_Nonnegative_Integer_After_Operations_2598.cs",
+              "RelativeDocumentMoniker": "NeetCode\\Medium\\Arrays\\Smallest_Missing_Nonnegative_Integer_After_Operations_2598.cs",
+              "ToolTip": "E:\\projects\\Console\\LeetCode\\NeetCode\\NeetCode\\Medium\\Arrays\\Smallest_Missing_Nonnegative_Integer_After_Operations_2598.cs",
+              "RelativeToolTip": "NeetCode\\Medium\\Arrays\\Smallest_Missing_Nonnegative_Integer_After_Operations_2598.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAIwBAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T23:05:30.538Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\projects\\Console\\LeetCode\\NeetCode\\NeetCode\\Program.cs",
               "RelativeDocumentMoniker": "NeetCode\\Program.cs",
               "ToolTip": "E:\\projects\\Console\\LeetCode\\NeetCode\\NeetCode\\Program.cs",
               "RelativeToolTip": "NeetCode\\Program.cs",
-              "ViewState": "AgIAADcAAAAAAAAAAAAAADoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACkAAAAAAAAAAAD4vz4AAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-20T20:56:52.387Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Decode_String_394.cs",
-              "DocumentMoniker": "E:\\projects\\Console\\LeetCode\\NeetCode\\NeetCode\\Medium\\Stack\\Decode_String_394.cs",
-              "RelativeDocumentMoniker": "NeetCode\\Medium\\Stack\\Decode_String_394.cs",
-              "ToolTip": "E:\\projects\\Console\\LeetCode\\NeetCode\\NeetCode\\Medium\\Stack\\Decode_String_394.cs*",
-              "RelativeToolTip": "NeetCode\\Medium\\Stack\\Decode_String_394.cs*",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAAABEAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-20T20:54:19.07Z",
+              "WhenOpened": "2025-10-12T05:22:50.034Z",
               "EditorCaption": ""
             }
           ]
